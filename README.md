@@ -53,22 +53,9 @@ To run the project, you need to install the following dependencies:
 - `torch`
 - `sklearn`
 
-You can install these packages using the following command:
-```bash
-pip install pandas numpy transformers torch sklearn
-```
-
-## How to Run
-
-1. Preprocess the dataset to clean the reviews.
-2. Fine-tune the Roberta model to classify sentiments.
-3. Analyze the output and visualize the results.
-
 ## File Structure
 
 - `Project.ipynb`: Jupyter notebook containing the code for data processing and sentiment analysis.
 - `dataset/booking_reviews.csv`: Dataset containing the reviews.
 
-## Contact
 
-For any questions or further information, feel free to reach out.
